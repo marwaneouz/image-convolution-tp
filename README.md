@@ -9,7 +9,7 @@ Ce projet implémente des filtres de convolution classiques (flou, Sobel, etc.) 
 - Filtres prédéfinis et aléatoires
 
 ## Auteurs
-- Votre Nom
+- Marwane OUzaina
 
 ## Lien vers le TP
-[TP Convolutions IMSD MIAA](TP_Convolution_MIAA_IMSD.pdf)# image-convolution-tp
+[TP_Convolution_MIAA_IMSD ](TP_Convolution_MIAA_IMSD.pdf)# image-convolution-tp
